@@ -2,3 +2,4 @@ Computer science
 biology
 maths
 physics
+Chemistry
